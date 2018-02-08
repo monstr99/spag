@@ -1,0 +1,17 @@
+{
+  "product_urls": {
+    "turmeric_powder": "http://www.thespicemarket.in/Turmeric",
+    "cloves": "http://www.thespicemarket.in/Cloves",
+    "coriander": "http://www.thespicemarket.in/Coriander",
+    "mustard": "http://www.thespicemarket.in/Mustard",
+    "cardamom": "http://www.thespicemarket.in/Cardamom",
+    "fenugreek": "http://www.thespicemarket.in/Fenugreek",
+    "cumin_seeds": "http://www.thespicemarket.in/cumin-seeds",
+    "fennel_seeds": "http://www.thespicemarket.in/fennel-seeds",
+    "cinnamon": "http://www.thespicemarket.in/cinnamon",
+    "bay_leaf": "http://www.thespicemarket.in/bay-leaf",
+    "nutmeg": "http://www.thespicemarket.in/nutmeg",
+    "star_anise": "http://www.thespicemarket.in/staranise"
+  }
+
+}
